@@ -1,0 +1,33 @@
+<html>
+  	<head>
+	      	<title>Example page</title>
+	 </head>
+	 <body>
+         <h1>  </h1>
+         <h2>  </h2>
+            <img src= " alt="">
+          <p>  </p>
+	</body>
+
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <title> Meme Stock Fail</title>
+      <Style>
+              img
+            {  
+                    height: 200x;
+            }  
+      </style>
+ </head>
+ <body>
+      <h1> Meme Stock Fail</hi>
+      <h2>Meme stocks are down</h2>
+      <p>stocks like <strong>AMC</strong> and 
+      <p> Boo hoo. </p>
+      <img src=""
