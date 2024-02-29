@@ -1,4 +1,15 @@
+:root
+{
+    --uncblue: rgb(1,45,91);
+    --uncgolld: rgb(254,189,54);
+    --uncgray: rgb(235,235,235);
+}
 body
 {
-    background-color:rgb(136, 101, 126)
+    background-color: var(--uncblue);
+    color: var(--uncgold);
+}
+a
+{
+    color: var(--uncgold);
 }
