@@ -1,0 +1,110 @@
+@font-face {
+    font-family: UNCHeader;
+    src: url(Fonts/Arvo-Regular.ttf);
+}
+
+@font-face
+{
+    font-family: UNCFooter;
+    src: url('Fonts/OpenSans.ttf')
+}
+
+@font-face {
+    font-family: DUNE;
+    src: url('Fonts/QuantumDUNE-eZOXg.ttf');
+}
+
+@font-face {
+    font-family: WOLVERINE;
+    src: url(Fonts/Wolverins-2Vno.ttf);
+}
+@font-face {
+    font-family: Heroes;
+    src: url(Fonts/Heroes-PKzd2.ttf);
+}
+table img
+
+{
+    height: 100px;
+}
+table, th
+{
+    border: 5px solid rgb(91, 98, 100);
+    border-collapse: collapse;
+    padding-left: 10px;
+    padding: right 10px;
+    text-align: center;
+    font-family: "wolverine";
+}
+body
+{
+    background-color: rgb(220, 220, 220);
+}
+th
+{
+    font-weight: bold
+    font-size: 18pt; 
+}
+th ~ td
+{
+    font-family: "UNCFooter";
+    border: 1px dotted black;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center
+    list-style-position: inside;
+    font-size: 14px;
+}
+ul
+{
+    padding-inline-start: 0px;
+}
+#headerrow
+{
+    background-color:aquamarine;
+}
+li
+{
+    display:block;
+}
+h1
+{
+    font-size: 3vw;
+    font-family: "UNCFooter";
+}
+h2
+{
+    font-size: 40px;
+    font-family: "wolverine";
+}
+p
+{
+    font-family: "UNCFooter";
+}
+body > img
+{
+    width: 98vw;
+}
+
+<style>
+.heropic
+{
+    height: 100px;
+}
+td, th
+{
+    border: 2px solid black;
+    padding: 15px;
+    
+}
+table
+{
+    border-collapse: collapse;
+}
+th
+{
+    background-color: rgb(7, 197, 87);
+    font-size: 18px;
+}
+</style>
+
