@@ -1,22 +1,22 @@
 @font-face {
     font-family: UNCHeader;
-    src: url(Fonts/Arvo-Regular.ttf);
+    src: url(css/fonts/Arvo-Regular.ttf);
 }
 
 @font-face
 {
     font-family: UNCFooter;
-    src: url('Fonts/OpenSans.ttf')
+    src: url('css/fonts/OpenSans.ttf')
 }
 
 @font-face {
     font-family: DUNE;
-    src: url('Fonts/QuantumDUNE-eZOXg.ttf');
+    src: url('css/fonts/QuantumDUNE-eZOXg.ttf');
 }
 
 @font-face {
     font-family: WOLVERINE;
-    src: url(Fonts/Wolverins-2Vno.ttf);
+    src: url(css/fonts/Wolverins-2Vno.ttf);
 }
 @font-face {
     font-family: Heroes;
