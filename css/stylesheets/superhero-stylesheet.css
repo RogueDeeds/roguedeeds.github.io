@@ -17,11 +17,11 @@
 
 @font-face {
     font-family: 'WOLVERINE';
-    src: url('roguedeeds.github.io/tree/css/fonts/Wolverins-2Vno.ttf');
+    src: url('css/fonts/Wolverins-2Vno.ttf');
 }
 @font-face {
     font-family: 'Heroes';
-    src: url('roguedeeds.github.io/css/fonts/Heroes-PKzd2.ttf');
+    src: url('css/fonts/Heroes-PKzd2.ttf');
 }
 
 table img
