@@ -17,7 +17,7 @@
 
 @font-face {
     font-family: 'WOLVERINE';
-    src: url('css/fonts/Wolverins-2Vno.ttf') format('ttf');
+    src: url('css/fonts/Wolverins-2Vno.ttf') format('truetype');
     font-style: normal;
     font-weight: normal;
 }
