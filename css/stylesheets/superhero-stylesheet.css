@@ -1,3 +1,4 @@
+<style>
 @font-face {
     font-family: UNCHeader;
     src: url('css/fonts/Arvo-Regular.ttf');
@@ -90,7 +91,7 @@ body > img
     width: 98vw;
 }
 
-<style>
+
 .heropic
 {
     height: 100px;
