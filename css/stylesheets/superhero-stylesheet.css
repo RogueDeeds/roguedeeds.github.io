@@ -17,7 +17,7 @@
 
 @font-face {
     font-family: 'WOLVERINE';
-    src: url('css/fonts/Wolverins-2Vno.ttf');
+    src: url('css/fonts/Wolverins-2Vno.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Heroes';
@@ -31,7 +31,7 @@ table img
 }
 table, th
 {
-    border: 5px solid rgb(91, 2, 100);
+    border: 5px solid rgb(91, 98, 100);
     border-collapse: collapse;
     padding-left: 10px;
     padding: right 10px;
