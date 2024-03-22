@@ -11,6 +11,15 @@ body
 {
     background-color: rgb(220, 220, 220);
 }
+table, th
+{
+    border: 5px solid rgb(91, 98, 100);
+    border-collapse: collapse;
+    padding-left: 10px;
+    padding: right 10px;
+    text-align: center;
+    font-family: 'WOLVERINE';
+}
 th ~ td
 {
     font-family: 'UNCFooter';
