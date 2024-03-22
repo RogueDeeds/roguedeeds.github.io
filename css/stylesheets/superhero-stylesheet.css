@@ -24,9 +24,6 @@
     src: url('css/fonts/Heroes-PKzd2.ttf');
 }
 
-div {
-    font-family: WOLVERINE;
-}
 table img
 
 {
@@ -80,7 +77,7 @@ h1
 h2
 {
     font-size: 40px;
-    font-family: "WOLVERINE";
+    font-family: 'WOLVERINE';
 }
 p
 {
