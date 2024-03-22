@@ -1,26 +1,26 @@
 @font-face {
     font-family: UNCHeader;
-    src: url(css/fonts/Arvo-Regular.ttf);
+    src: url('css/fonts/Arvo-Regular.ttf');
 }
 
 @font-face
 {
     font-family: UNCFooter;
-    src: url(css/fonts/OpenSans.ttf);
+    src: url('css/fonts/OpenSans.ttf');
 }
 
 @font-face {
     font-family: DUNE;
-    src: url(css/fonts/QuantumDUNE-eZOXg.ttf);
+    src: url('css/fonts/QuantumDUNE-eZOXg.ttf');
 }
 
 @font-face {
     font-family: WOLVERINE;
-    src: url(css/fonts/Wolverins-2Vno.ttf);
+    src: url('css/fonts/Wolverins-2Vno.ttf');
 }
 @font-face {
     font-family: Heroes;
-    src: url(css/fonts/Heroes-PKzd2.ttf);
+    src: url('css/fonts/Heroes-PKzd2.ttf');
 }
 
 div {
@@ -38,7 +38,7 @@ table, th
     padding-left: 10px;
     padding: right 10px;
     text-align: center;
-    font-family: "wolverine";
+    font-family: "WOLVERINE";
 }
 body
 {
@@ -79,7 +79,7 @@ h1
 h2
 {
     font-size: 40px;
-    font-family: "wolverine";
+    font-family: "WOLVERINE";
 }
 p
 {
