@@ -16,8 +16,8 @@
 }
 
 @font-face {
-    font-family: 'WOLVERINE';
-    src: url(css/fonts/Wolverins-2Vno.ttf);
+    font-family: "WOLVERINE";
+    src: url("css/fonts/Wolverins-2Vno.ttf");
 }
 @font-face {
     font-family: 'Heroes';
