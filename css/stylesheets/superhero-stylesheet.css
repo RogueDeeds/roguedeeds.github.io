@@ -1,12 +1,12 @@
 @font-face {
     font-family: UNCHeader;
-    src: url(css/fonts/Arvo-Regular.ttf);
+    src: url('css/fonts/Arvo-Regular.ttf');
 }
 
 @font-face
 {
     font-family: UNCFooter;
-    src: url(css/fonts/OpenSans.ttf)
+    src: url('css/fonts/OpenSans.ttf')
 }
 
 @font-face {
@@ -16,11 +16,11 @@
 
 @font-face {
     font-family: WOLVERINE;
-    src: url(css/fonts/Wolverins-2Vno.ttf);
+    src: url('css/fonts/Wolverins-2Vno.ttf');
 }
 @font-face {
     font-family: Heroes;
-    src: url(css/fonts/Heroes-PKzd2.ttf);
+    src: url('css/fonts/Heroes-PKzd2.ttf');
 }
 table img
 
