@@ -1,0 +1,57 @@
+<style>
+@font-face {
+  font-family:
+  src: url()
+}
+table img
+{
+    height: 100px;
+}
+body
+{
+    background-color: rgb(220, 220, 220);
+}
+th ~ td
+{
+    font-family: 'UNCFooter';
+    border: 1px dotted black;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center
+    list-style-position: inside;
+    font-size: 14px;
+}
+li
+{
+    display:block;
+}
+h1
+{
+    font-size: 3vw;
+    font-family: 'UNCFooter';
+}
+h2
+{
+    font-size: 40px;
+    font-family: 'WOLVERINE';
+}
+p
+{
+    font-family: 'UNCFooter';
+}
+td, th
+{
+    border: 2px solid black;
+    padding: 15px;
+    
+}
+table
+{
+    border-collapse: collapse;
+}
+th
+{
+    background-color: rgb(7, 197, 87);
+    font-size: 18px;
+}
+</style>
