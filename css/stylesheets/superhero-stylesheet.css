@@ -36,7 +36,7 @@ table, th
     padding-left: 10px;
     padding: right 10px;
     text-align: center;
-    font-family: "WOLVERINE";
+    font-family: 'WOLVERINE';
 }
 body
 {
@@ -49,7 +49,7 @@ th
 }
 th ~ td
 {
-    font-family: "UNCFooter";
+    font-family: 'UNCFooter';
     border: 1px dotted black;
     padding-left: 15px;
     padding-right: 15px;
@@ -72,7 +72,7 @@ li
 h1
 {
     font-size: 3vw;
-    font-family: "UNCFooter";
+    font-family: 'UNCFooter';
 }
 h2
 {
@@ -81,7 +81,7 @@ h2
 }
 p
 {
-    font-family: "UNCFooter";
+    font-family: 'UNCFooter';
 }
 body > img
 {
