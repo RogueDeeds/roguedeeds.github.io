@@ -13,7 +13,7 @@ body
 }
 table, th
 {
-    border: 5px solid rgb(226, 176, 13);
+    border: 5px solid rgb(49, 71, 58);
     border-collapse: collapse;
     padding-left: 10px;
     padding: right 10px;
@@ -60,7 +60,7 @@ table
 }
 th
 {
-    background-color: rgb(71, 6, 109);
+    background-color: rgb(124, 131, 99));
     font-size: 18px;
 }
 </style>
