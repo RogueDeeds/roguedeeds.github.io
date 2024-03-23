@@ -1,7 +1,7 @@
 <style>
 @font-face {
     font-family: 'WOLVERINE';
-    src: url('css/fonts/Wolverins-2Vno.ttf');
+    src: url(css/fonts/Wolverins-2Vno.ttf);
 }
 table img
 {
@@ -13,7 +13,7 @@ body
 }
 table, th
 {
-    border: 5px solid rgb(103, 119, 47);
+    border: 5px solid rgb(14, 78, 6);
     border-collapse: collapse;
     padding-left: 10px;
     padding: right 10px;
@@ -37,7 +37,7 @@ li
 h1
 {
     font-size: 3vw;
-    font-family: 'UNCFooter';
+    font-family: 'WOLVERINE';
 }
 h2
 {
@@ -60,7 +60,7 @@ table
 }
 th
 {
-    background-color: rgb(14, 78, 6);
+    background-color: rgb(103, 119, 47);
     font-size: 18px;
 }
 </style>
