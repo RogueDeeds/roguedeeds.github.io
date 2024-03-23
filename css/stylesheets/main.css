@@ -1,7 +1,9 @@
 <style>
 @font-face {
-  font-family:
-  src: url()
+    font-family: 'WOLVERINE';
+    src: url('css/fonts/Wolverins-2Vno.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
 }
 table img
 {
