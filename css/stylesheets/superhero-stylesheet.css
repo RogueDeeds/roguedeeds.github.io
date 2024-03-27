@@ -1,4 +1,3 @@
-<style>
 @font-face {
     font-family: 'UNCHeader';
     src: url('css/fonts/Arvo-Regular.ttf');
@@ -14,12 +13,9 @@
     font-family: 'DUNE';
     src: url('css/fonts/QuantumDUNE-eZOXg.ttf');
 }
-
 @font-face {
     font-family: 'WOLVERINE';
-    src: url('css/fonts/Wolverins-2Vno.ttf') format('truetype');
-    font-style: normal;
-    font-weight: normal;
+    src: url('https://roguedeeds.github.io/css/fonts/Wolverins-2Vno.ttf');
 }
 @font-face {
     font-family: 'Heroes';
@@ -110,5 +106,5 @@ th
     background-color: rgb(7, 197, 87);
     font-size: 18px;
 }
-</style>
+
 
