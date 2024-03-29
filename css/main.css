@@ -1,1 +1,26 @@
-    css/fonts/Tomeoftheunknown-3gL3.ttf
+@font-face {
+    font-family: 'Tomeoftheunknown';
+    src: url('https://roguedeeds.github.io/css/fonts/Tomeoftheunknown-3gL3.ttf');
+
+h1
+    {
+       font-size: 3vw;
+    font-family: 'Tomeoftheunknown';  
+    }
+h2
+    {
+        font-size: 40px;
+    font-family: 'Tomeoftheunknown';
+    }
+p
+{
+    font-family: 'UNCFooter';
+}
+body
+{
+    background-color: rgb(220, 220, 220);
+}
+a:hover, l1:hover
+    {
+        color: rgb(0, 100, 0);
+    }
