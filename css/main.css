@@ -38,6 +38,10 @@ li:hover
     {
                 color:rgb(0, 100, 0) 
     }
+img
+    {
+    size: 200px
+    }
 ul {
   list-style: none;
   margin-left: 0;
