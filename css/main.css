@@ -1,11 +1,15 @@
 @font-face {
-    font-family: 'tome';
+    font-family: 'hoe';
     src: url('https://roguedeeds.github.io/css/fonts/Tomeoftheunknown-3gL3.ttf');
         }
 
 @font-face {
     font-family: 'fira';
     src: url('https://roguedeeds.github.io/css/fonts/FiraSans-Regular.ttf');
+        }
+@font-face {
+    font-family: 'fira';
+    src: url('https://roguedeeds.github.io/css/fonts/Tomeoftheunknown-3gL3.ttf');
         }
 h1
     {
