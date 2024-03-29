@@ -40,7 +40,7 @@ li:hover
     }
 img
     {
-    size: 200px
+    height: 200px;
     }
 ul {
   list-style: none;
