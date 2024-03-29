@@ -7,10 +7,14 @@
     font-family: 'fira';
     src: url('https://roguedeeds.github.io/css/fonts/FiraSans-Regular.ttf');
         }
+@font-face {
+    font-family: 'WOLVERINE';
+    src: url('https://roguedeeds.github.io/css/fonts/Wolverins-2Vno.ttf');
+}
 h1
     {
        font-size: 3vw;
-    font-family: 'fira';  
+    font-family: 'WOLVERINE';  
     }
 h2
     {
