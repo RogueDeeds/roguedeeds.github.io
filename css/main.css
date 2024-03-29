@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Tomeoftheunknown';
+    font-family: 'tome';
     src: url('https://roguedeeds.github.io/css/fonts/Tomeoftheunknown-3gL3.ttf');
         }
 
@@ -10,12 +10,12 @@
 h1
     {
        font-size: 3vw;
-    font-family: 'Tomeoftheunknown';  
+    font-family: 'tome';  
     }
 h2
     {
         font-size: 40px;
-    font-family: 'Tomeoftheunknown';
+    font-family: 'tome';
     }
 p
    {
@@ -52,5 +52,5 @@ li {
 li:before {
   content: "$";
   padding-right: 5px;
-  font-family: 'Tomeoftheunknown';
+  font-family: 'tome';
 }
