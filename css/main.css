@@ -24,11 +24,18 @@ body
 {
     background-color: rgb(220, 220, 220);
 }
+th:hover 
+            {
+                color:rgb(0, 100, 0) 
+            }
 a:hover, l1:hover
     {
         color: rgb(0, 100, 0);
     }
-
+li:hover 
+            {
+                color:rgb(0, 100, 0) 
+            }
 ul {
   list-style: none;
   margin-left: 0;
