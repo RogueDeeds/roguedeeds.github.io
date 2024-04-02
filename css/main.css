@@ -76,18 +76,18 @@ table, th
     text-align: center;
     font-family: 'tome';
 }
+th ~ td
 {
     font-family: 'fira';
     border: 1px dotted;
     padding-left: 15px;
     padding-right: 15px;
-    text-align: center
+    text-align: center;
     list-style-position: inside;
     font-size: 14px;
 }
 td, th
 {
-    border:;
     padding: 15px;
     
 }
@@ -97,6 +97,6 @@ table
 }
 th
 {
-    background-color:;
+
     font-size: 18px;
 }
