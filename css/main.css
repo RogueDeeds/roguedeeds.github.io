@@ -62,3 +62,41 @@ li:before {
   padding-right: 5px;
   font-family: 'tome';
 }
+
+table img
+{
+    height: 100px;
+}
+table, th
+{
+    border: 5px solid;
+    border-collapse: collapse;
+    padding-left: 10px;
+    padding: right 10px;
+    text-align: center;
+    font-family: 'tome';
+}
+{
+    font-family: 'fira';
+    border: 1px dotted;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center
+    list-style-position: inside;
+    font-size: 14px;
+}
+td, th
+{
+    border:;
+    padding: 15px;
+    
+}
+table
+{
+    border-collapse: collapse;
+}
+th
+{
+    background-color:;
+    font-size: 18px;
+}
