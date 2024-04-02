@@ -100,3 +100,15 @@ th
 
     font-size: 18px;
 }
+a
+{
+  color: hotpink;
+}
+a:visited 
+{
+  color: green;
+}
+a:link
+{
+  color: red;
+}
