@@ -11,10 +11,7 @@ table img
 {
     height: 100px;
 }
-body
-{
-    background-color: rgb(220, 220, 220);
-}
+
 table, th
 {
     border: 5px solid rgb(14, 78, 6);
@@ -38,20 +35,7 @@ li
 {
     color: rgb(153, 54, 15);
 }
-h1
-{
-    font-size: 3vw;
-    font-family: 'tome';
-}
-h2
-{
-    font-size: 40px;
-    font-family: 'tome';
-}
-p
-{
-    font-family: 'UNCFooter';
-}
+
 td, th
 {
     border: 2px solid rgb(49, 71, 58);
