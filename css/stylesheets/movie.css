@@ -23,7 +23,7 @@ table, th
 }
 th ~ td
 {
-    font-family: 'UNCFooter';
+    font-family: 'fira';
     border: 1px dotted rgb(109, 6, 6);
     padding-left: 15px;
     padding-right: 15px;
