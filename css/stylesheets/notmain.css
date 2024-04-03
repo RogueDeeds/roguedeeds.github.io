@@ -30,7 +30,7 @@ th ~ td
     border: 1px dotted rgb(109, 6, 6);
     padding-left: 15px;
     padding-right: 15px;
-    text-align: center
+    text-align: center;
     list-style-position: inside;
     font-size: 14px;
 }
