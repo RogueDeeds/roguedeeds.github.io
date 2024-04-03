@@ -66,10 +66,6 @@ li:before {
   padding-right: 5px;
   font-family: 'tome';
 }
-a
-{
-  color: rgb(100, 0, 0);
-}
 a:visited 
 {
   color: rgb(0, 0, 100);
