@@ -22,7 +22,7 @@ table, th
     padding-left: 10px;
     padding: right 10px;
     text-align: center;
-    font-family: 'WOLVERINE';
+    font-family: 'tome';
 }
 th ~ td
 {
@@ -41,12 +41,12 @@ li
 h1
 {
     font-size: 3vw;
-    font-family: 'WOLVERINE';
+    font-family: 'tome';
 }
 h2
 {
     font-size: 40px;
-    font-family: 'WOLVERINE';
+    font-family: 'tome';
 }
 p
 {
