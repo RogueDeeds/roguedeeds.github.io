@@ -21,6 +21,10 @@
     font-family: 'Heroes';
     src: url('css/fonts/Heroes-PKzd2.ttf');
 }
+h1
+{
+    color:rgb(91, 98, 100);
+}
 
 table img
 
