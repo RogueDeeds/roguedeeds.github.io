@@ -1,0 +1,61 @@
+
+@font-face {
+    font-family: 'WOLVERINE';
+    src: url('https://roguedeeds.github.io/css/fonts/Wolverins-2Vno.ttf');
+}
+@font-face {
+    font-family: 'tome';
+    src: url('https://roguedeeds.github.io/css/fonts/Tomeoftheunknown-3gL3.ttf');
+        }
+h1
+{
+    color:rgb(15, 121, 153);
+}
+.homebase
+{
+    height: 40px;
+}
+table img
+{
+    height: 100px;
+}
+
+table, th
+{
+    border: 5px solid rgb(15, 121, 153);
+    border-collapse: collapse;
+    padding-left: 10px;
+    padding: right 10px;
+    text-align: center;
+    font-family: 'tome';
+}
+th ~ td
+{
+    font-family: 'fira';
+    border: 1px dotted rgb(15, 121, 153);
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    list-style-position: inside;
+    font-size: 14px;
+}
+li
+{
+    color: rgb(9, 173, 58);
+}
+
+td, th
+{
+    border: 2px solid rgb(15, 121, 153);
+    padding: 15px;
+    
+}
+table
+{
+    border-collapse: collapse;
+}
+th
+{
+    background-color: rgb(15, 121, 153);
+    font-size: 18px;
+}
