@@ -7,6 +7,10 @@
     font-family: 'tome';
     src: url('https://roguedeeds.github.io/css/fonts/Tomeoftheunknown-3gL3.ttf');
         }
+h1
+{
+    color:rgb(14, 78, 6);
+}
 .homebase
 {
     height: 40px;
