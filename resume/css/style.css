@@ -52,3 +52,13 @@ a:hover;
     {
         color: rgb(199, 134, 14);
     }
+li {
+  padding-left: 1em;
+  text-indent: -1em;
+   }
+
+li:before {
+  content: "$";
+  padding-right: 5px;
+  font-family: 'deco';
+}
