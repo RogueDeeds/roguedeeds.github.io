@@ -2,6 +2,10 @@
     font-family: 'tome';
     src: url('https://roguedeeds.github.io/css/fonts/Lato-Regular.ttf');
         }
+@font-face {
+    font-family: 'tome';
+    src: url('https://roguedeeds.github.io/css/fonts/MonsterOfFantasy-eZg4p.tt');
+        }
 .date
 {
   color:rgb(114, 27, 27);
