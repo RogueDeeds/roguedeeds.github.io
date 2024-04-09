@@ -1,9 +1,9 @@
 @font-face {
-    font-family: 'tome';
+    font-family: 'lato';
     src: url('https://roguedeeds.github.io/css/fonts/Lato-Regular.ttf');
         }
 @font-face {
-    font-family: 'tome';
+    font-family: 'monster';
     src: url('https://roguedeeds.github.io/css/fonts/MonsterOfFantasy-eZg4p.tt');
         }
 .date
@@ -14,6 +14,7 @@ h1
 {
   color:rgb(114, 27, 27);
   font-size: 9vw;
+    font-family: 'monster';
 }
 img
 {
@@ -26,4 +27,8 @@ h2
 nav
 {
   color:rgb(114, 27, 27);
+}
+p
+{
+    font-family: 'lato';
 }
