@@ -8,11 +8,11 @@
         }
 .date
 {
-  color:rgb(114, 27, 27);
+  color:rgb(214, 168, 40);
 }
 h1
 {
-  color:rgb(114, 27, 27);
+  color:rgb(214, 168, 40);
   font-size: 9vw;
     font-family: 'monster';
 }
@@ -22,13 +22,16 @@ img
 }
 h2
 {
-  color:rgb(114, 27, 27);
+  color:rgb(199, 134, 14);
+    font-family: 'monster';
+    font-size: 7vw;
 }
 nav
 {
-  color:rgb(114, 27, 27);
+  color:rgb(199, 134, 14);
 }
 p
 {
     font-family: 'lato';
+    font-size: 5vw;
 }
