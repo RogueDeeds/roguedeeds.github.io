@@ -46,7 +46,7 @@ a:hover, l1:hover
     }
 li:hover 
     {
-               color:rgb(214, 168, 40) 
+               color:rgb(214, 168, 40);
     }
 a:hover;
     {
@@ -78,7 +78,7 @@ body
 }
 th
 {
-    font-weight: bold
+    font-weight: bold;
     font-size: 18pt; 
 }
 th ~ td
@@ -87,7 +87,7 @@ th ~ td
     border: 1px dotted black;
     padding-left: 15px;
     padding-right: 15px;
-    text-align: center
+    text-align: center;
     list-style-position: inside;
     font-size: 14px;
 }
