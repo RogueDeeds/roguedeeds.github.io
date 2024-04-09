@@ -58,7 +58,7 @@ li {
    }
 
 li:before {
-  content: "$";
+  content: "N";
   padding-right: 5px;
   font-family: 'deco';
 }
