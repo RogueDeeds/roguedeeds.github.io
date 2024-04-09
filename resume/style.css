@@ -35,3 +35,16 @@ p
     font-family: 'lato';
     font-size: 5vw;
 }
+  }
+a:hover, l1:hover
+    {
+        color: rgb(214, 168, 40);
+    }
+li:hover 
+    {
+               color:rgb(214, 168, 40) 
+    }
+a:hover;
+    {
+        color: rgb(199, 134, 14);
+    }
