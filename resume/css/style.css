@@ -62,3 +62,36 @@ li:before {
   padding-right: 5px;
   font-family: 'deco';
 }
+}
+table, th
+{
+    border: 5px solid rgb(214, 168, 40);
+    border-collapse: collapse;
+    padding-left: 10px;
+    padding: right 10px;
+    text-align: center;
+    font-family: 'monster';
+}
+body
+{
+    background-color: rgb(220, 220, 220);
+}
+th
+{
+    font-weight: bold
+    font-size: 18pt; 
+}
+th ~ td
+{
+    font-family: 'lato';
+    border: 1px dotted black;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center
+    list-style-position: inside;
+    font-size: 14px;
+}
+ul
+{
+    padding-inline-start: 0px;
+}
