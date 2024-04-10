@@ -39,7 +39,6 @@ p
     font-family: 'lato';
     font-size: 3vw;
 }
-  }
 a:hover, l1:hover
     {
         color: rgb(214, 168, 40);
@@ -62,7 +61,7 @@ li:before {
   padding-right: 5px;
   font-family: 'deco';
 }
-}
+
 table, th
 {
     border: 5px solid rgb(214, 168, 40);
@@ -91,16 +90,16 @@ th ~ td
     list-style-position: inside;
     font-size: 14px;
 }
+
 ul
 {
     padding-inline-start: 0px;
 }
-}
+
 td, th
 {
     border: 2px solid black;
     padding: 15px;
-    
 }
 table
 {
