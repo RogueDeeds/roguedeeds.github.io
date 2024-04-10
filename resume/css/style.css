@@ -17,18 +17,18 @@
 h1
 {
   color:rgb(214, 168, 40);
-  font-size: 5vw;
+  font-size: 3vw;
     font-family: 'monster';
 }
 img
 {
-  width:30vw;
+  width:20vw;
 }
 h2
 {
   color:rgb(199, 134, 14);
     font-family: 'monster';
-    font-size: 4vw;
+    font-size: 40px;
 }
 nav
 {
@@ -37,7 +37,7 @@ nav
 p
 {
     font-family: 'lato';
-    font-size: 13px;
+    font-size: 15px;
 }
 a:hover, l1:hover
     {
@@ -54,7 +54,7 @@ a:hover;
 li {
   padding-left: 1em;
   text-indent: -1em;
-  font-size: 13px;
+  font-size: 15px;
    }
 
 li:before {
