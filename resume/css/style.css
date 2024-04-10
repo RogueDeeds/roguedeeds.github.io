@@ -54,6 +54,7 @@ a:hover;
 li {
   padding-left: 1em;
   text-indent: -1em;
+  font-size: 13px;
    }
 
 li:before {
