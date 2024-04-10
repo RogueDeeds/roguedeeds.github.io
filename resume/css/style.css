@@ -17,7 +17,7 @@
 h1
 {
   color:rgb(214, 168, 40);
-  font-size: 9vw;
+  font-size: 5vw;
     font-family: 'monster';
 }
 img
@@ -28,7 +28,7 @@ h2
 {
   color:rgb(199, 134, 14);
     font-family: 'monster';
-    font-size: 7vw;
+    font-size: 4vw;
 }
 nav
 {
@@ -37,7 +37,7 @@ nav
 p
 {
     font-family: 'lato';
-    font-size: 5vw;
+    font-size: 3vw;
 }
   }
 a:hover, l1:hover
