@@ -1,54 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-      <meta charset="UTF-8">
+    <head>
+        <meta charset="UTF-8">
         <title>Sea Search</title>
-     <link rel="stylesheet" type="text/css" href="css/main.css"/>
-     <link rel="stylesheet" type="text/css" href="css/stylesheets/search.css"/>
+        <link rel="stylesheet" type="text/css" href="css/main.css"/>
+        <link rel="stylesheet" type="text/css" href="css/stylesheets/search.css"/>
     </head>
     <body>
         <h1>Sea Seach</h1>
-       <img src="https://s3.amazonaws.com/theoatmeal-img/blog/black_friday2015/shirt_mantis.jpg" alt="Mantis Shrimp">
-<form action="https://www.google.com/search" method="GET">
-  <p>
-    <label for="selectfish">Select a Sea Animal:</label>
-    <select name="q" id="selectfish">
-      <option value="mantis shrimp">Mantis Schrimp</option>
-      <option value="whale">Whale</option>
-      <option value="dolphin">Dolphin</option>
-      <option value="crab">Crab</option>
-      <option value="krill">Krill</option>
-      <option value="shark">Shark</option>
-      <option value="whale shark">Whale Shark</option>
-      <option value="turtle">Turtle</option>
-      <option value="horseshoe crab">Horseshoe Crab</option>
-      <option value="eel">Eel</option>
-      <option value="seal">Seal</option>
-      <option value="norwhal">Norwhal</option>
-      <option value="manta ray">Manta Ray</option>
-    </select>
-  </p>
-  <p>
-    <label for="radiopng">PNG</label>
-    <input type="radio" name="as_filetype" value="png" id="radiopng">
-  </p>
-   <p>
-    <label for="radiopng">JPG</label>
-    <input type="radio" name="as_filetype" value="jpg" id="radiopng">
-  </p>
-   <p>
-    <label for="radiopng">GIF</label>
-    <input type="radio" name="as_filetype" value="png" id="radiopng">
-  </p>
-  <p>
-    <p style="display:none">
-    <label for="imagecheck">Images</label>
-    <input type="checkbox" name="tbm" value="isch" id="imagecheck" checked>
-  </p> 
-    <p>
-    <input type="submit">
-  </p>
-</form>
+        <img src="https://s3.amazonaws.com/theoatmeal-img/blog/black_friday2015/shirt_mantis.jpg" alt="Mantis Shrimp">
+        <form action="https://www.google.com/search" method="GET">
+            <fieldset id="toplevelset">
+                <div>
+                    <label for="selectcritter">Search a Sea Animal:</label>
+                    <select name="q" id="selectcritter">
+                    <input type="text" name="q" id="searchbox">
+                </div>
+                <div>
+                    <p>
+                        <label for="selectfish">Select a Sea Critter:</label>
+                        <select name="q" id="selectfish">
+                          <option value="">--Select--</option>
+                          <option value="eel">Eel</option>
+                          <option value="whale">Whale</option>
+                          <option value="dolphin">Dolphin</option>
+                          <option value="shark">Shark</option>
+                          <option value="whale shark">Whale Shark</option>
+                          <option value="turtle">Turtle</option>
+                          <option value="seal">Seal</option>
+                          <option value="norwhal">Norwhal</option>
+                          <option value="manta ray">Manta Ray</option>
+                        </select>
+                      </p>
+                </div>
+                <div>
+                    <label for="phrase">Select a Crustaceans</label>
+                    <select name="q" id="selectfish">
+                        <option value="">--Select--</option>
+                        <option value="mantis shrimp">Mantis Schrimp</option>
+                        <option value="crab">Crab</option>
+                        <option value="krill">Krill</option>
+                        <option value="horseshoe crab">Horseshoe Crab</option>
+                    </select>
+                </div>
+                <fieldset>
+                    <div>
+                        <input type="checkbox" name="newwindow" value="1" id="checkwindow">
+                        <label for="checkwindow">Open Links in New Window</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="pws" value="0" id="checkpersonal">
+                        <label for="checkpersonal">Exclude Personal Results</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="as_occt" value="url" id="checkurl">
+                        <label for="checkurl">Limit Search to URLs</label>
+                    </div>
+                </fieldset>
+            </fieldset>
+            <input type="submit" value="Search">
+        </form>
         <a href="index.html"><img class="homebase" src="images/Buttons/button_homebase-GREEN-BLUE.png" alt="HOME"></a>
     </body>
 </html>
+
