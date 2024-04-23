@@ -29,14 +29,14 @@ h1
 table img
 
 {
-    height: 100vw;
+    height: 100px;
 }
 table, th
 {
-    border: 5vw solid rgb(91, 98, 100);
+    border: 5px solid rgb(91, 98, 100);
     border-collapse: collapse;
-    padding-left: 10vw;
-    padding: right 10vw;
+    padding-left: 10px;
+    padding: right 10px;
     text-align: center;
     font-family: 'WOLVERINE';
 }
@@ -47,17 +47,17 @@ body
 th
 {
     font-weight: bold
-    font-size: 18vw; 
+    font-size: 18px; 
 }
 th ~ td
 {
     font-family: 'UNCFooter';
     border: 1px dotted black;
-    padding-left: 15vw;
-    padding-right: 15vw;
+    padding-left: 15px;
+    padding-right: 15px;
     text-align: center
     list-style-position: inside;
-    font-size: 14vw;
+    font-size: 14px;
 }
 ul
 {
@@ -73,12 +73,12 @@ li
 }
 h1
 {
-    font-size: 3vw;
+    font-size: 3px;
     font-family: 'UNCFooter';
 }
 h2
 {
-    font-size: 40vw;
+    font-size: 40px;
     font-family: 'WOLVERINE';
 }
 p
@@ -87,18 +87,18 @@ p
 }
 body > img
 {
-    width: 98vw;
+    width: 98px;
 }
 
 
 .heropic
 {
-    height: 100vw;
+    height: 100px;
 }
 td, th
 {
-    border: 2vw solid black;
-    padding: 15vw;
+    border: 2px solid black;
+    padding: 15px;
     
 }
 table
@@ -108,7 +108,7 @@ table
 th
 {
     background-color: rgb(7, 197, 87);
-    font-size: 18vw;
+    font-size: 18px;
 }
 
 
