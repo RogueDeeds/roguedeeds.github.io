@@ -2,6 +2,11 @@
     font-family: 'WOLVERINE';
     src: url('https://roguedeeds.github.io/css/fonts/Wolverins-2Vno.ttf');
 }
+h1
+{
+    font-family: WOLVERINE;
+    font-color: rgb(0,125,186);
+}
 body
 {
     background-color: rgb(254,189,54);
