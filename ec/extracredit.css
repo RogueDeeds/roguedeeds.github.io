@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'WOLVERINE';
+    src: url('https://roguedeeds.github.io/css/fonts/Wolverins-2Vno.ttf');
+}
+body
+{
+    background-color: rgb(254,189,54);
+}
+img
+{
+  height: 5vw;
+}
