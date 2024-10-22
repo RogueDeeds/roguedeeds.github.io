@@ -45,7 +45,7 @@ a:hover, l1:hover
     }
 li:hover 
     {
-               color:rgb(136, 157, 87); 
+         color:rgb(136, 157, 87); 
     }
 img
     {
@@ -76,6 +76,7 @@ ul {
 li {
   padding-left: 1em;
   text-indent: -1em;
+  font-family: 'fira';
    }
 
 a:visited 
