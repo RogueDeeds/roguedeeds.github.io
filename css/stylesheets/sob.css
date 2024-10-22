@@ -23,7 +23,7 @@ h2
     }
 p
    {
-    font-size: 15px;
+    font-size: 20px;
     font-family: 'fira';
   }
 body
@@ -84,5 +84,5 @@ a:visited
 }
 a:link
 {
-  color: rgb(153, 54, 15);
+  color: rgb(232, 134, 131);
 }
