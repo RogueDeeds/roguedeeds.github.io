@@ -8,18 +8,18 @@
     src: url('https://roguedeeds.github.io/css/fonts/FiraSans-Regular.ttf');
         }
 @font-face {
-    font-family: 'WOLVERINE';
-    src: url('https://roguedeeds.github.io/css/fonts/Wolverins-2Vno.ttf');
+    font-family: 'autumn';
+    src: url('roguedeeds.github.io/css/fonts/AutumnFlowers-9YVZK.otf');
 }
 h1
     {
        font-size: 60px;
-    font-family: 'tome';  
+    font-family: 'autumn';  
     }
 h2
     {
         font-size: 40px;
-    font-family: 'tome';
+    font-family: 'autumn';
     }
 p
    {
