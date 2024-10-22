@@ -78,11 +78,6 @@ li {
   text-indent: -1em;
    }
 
-li:before {
-  content: "$";
-  padding-right: 5px;
-  font-family: 'not using';
-}
 a:visited 
 {
   color: rgb(0, 100, 0);
